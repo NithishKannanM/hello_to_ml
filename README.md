@@ -61,16 +61,6 @@ Model	Accuracy (approx)
 Logistic Regression	~97%
 KNN (k=3)	~96%
 Decision Tree	~100% (overfitting potential noted)
-
-📁 Folder Structure
-bash
-Copy
-Edit
-iris-ml/
-│
-├── iris.csv 
-├── README.md                     
-├── database.sqlite                       
-└── main.ipynb                       
+              
 🔗 Inspiration
 This project is one of the first steps in my ML journey — helping me interact with real data, visualize decision boundaries, and see ML come alive.
